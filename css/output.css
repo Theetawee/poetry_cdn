@@ -1329,6 +1329,10 @@ input:checked + .toggle-bg {
   height: 3rem;
 }
 
+.h-96 {
+  height: 24rem;
+}
+
 .min-h-screen {
   min-height: 100vh;
 }
@@ -1399,6 +1403,14 @@ input:checked + .toggle-bg {
 
 .w-full {
   width: 100%;
+}
+
+.w-96 {
+  width: 24rem;
+}
+
+.w-auto {
+  width: auto;
 }
 
 .max-w-2xl {

@@ -19,9 +19,6 @@
 .head-text{
     font-family: 'Vollkorn', serif;
 }
-a{
-    @apply text-primary-500 hover:underline ;
-}
 .text{
     text-decoration: none !important;
 }

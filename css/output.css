@@ -1350,6 +1350,22 @@ input:checked + .toggle-bg{
   height: auto;
 }
 
+.h-0{
+  height: 0px;
+}
+
+.h-0\.5{
+  height: 0.125rem;
+}
+
+.h-16{
+  height: 4rem;
+}
+
+.h-32{
+  height: 8rem;
+}
+
 .max-h-full{
   max-height: 100%;
 }

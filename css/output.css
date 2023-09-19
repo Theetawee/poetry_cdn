@@ -1246,6 +1246,10 @@ input:checked + .toggle-bg{
   margin-left: auto;
 }
 
+.mt-10{
+  margin-top: 2.5rem;
+}
+
 .block{
   display: block;
 }
@@ -1338,6 +1342,14 @@ input:checked + .toggle-bg{
   height: 100vh;
 }
 
+.h-1{
+  height: 0.25rem;
+}
+
+.h-auto{
+  height: auto;
+}
+
 .max-h-full{
   max-height: 100%;
 }
@@ -1428,6 +1440,10 @@ input:checked + .toggle-bg{
 
 .max-w-sm{
   max-width: 24rem;
+}
+
+.max-w-3xl{
+  max-width: 48rem;
 }
 
 .flex-1{
@@ -1827,6 +1843,11 @@ input:checked + .toggle-bg{
 .bg-dark-700{
   --tw-bg-opacity: 1;
   background-color: rgb(97 97 97 / var(--tw-bg-opacity));
+}
+
+.bg-gray-300{
+  --tw-bg-opacity: 1;
+  background-color: rgb(209 213 219 / var(--tw-bg-opacity));
 }
 
 .bg-opacity-50{
@@ -2854,6 +2875,11 @@ input:checked + .toggle-bg{
   .sm\:py-16{
     padding-top: 4rem;
     padding-bottom: 4rem;
+  }
+
+  .sm\:px-8{
+    padding-left: 2rem;
+    padding-right: 2rem;
   }
 
   .sm\:text-center{

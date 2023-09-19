@@ -1242,6 +1242,10 @@ input:checked + .toggle-bg{
   margin-top: 2rem;
 }
 
+.ml-auto{
+  margin-left: auto;
+}
+
 .block{
   display: block;
 }
@@ -1420,6 +1424,10 @@ input:checked + .toggle-bg{
 
 .max-w-screen-xl{
   max-width: 1280px;
+}
+
+.max-w-sm{
+  max-width: 24rem;
 }
 
 .flex-1{
@@ -1814,6 +1822,11 @@ input:checked + .toggle-bg{
 
 .bg-white\/50{
   background-color: rgb(255 255 255 / 0.5);
+}
+
+.bg-dark-700{
+  --tw-bg-opacity: 1;
+  background-color: rgb(97 97 97 / var(--tw-bg-opacity));
 }
 
 .bg-opacity-50{

@@ -1337,6 +1337,14 @@ input:checked + .toggle-bg{
   height: 100vh;
 }
 
+.h-96{
+  height: 24rem;
+}
+
+.h-32{
+  height: 8rem;
+}
+
 .max-h-\[24rem\]{
   max-height: 24rem;
 }
@@ -1407,6 +1415,14 @@ input:checked + .toggle-bg{
 
 .w-full{
   width: 100%;
+}
+
+.w-96{
+  width: 24rem;
+}
+
+.w-32{
+  width: 8rem;
 }
 
 .max-w-2xl{

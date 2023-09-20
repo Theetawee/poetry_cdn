@@ -25,3 +25,11 @@
     text-decoration: none !important;
 }
 
+.paras a{
+    font-family: 'Vollkorn', serif;
+    font-style: italic;
+    color: #14b8a6;
+}
+.paras a:hover{
+    text-decoration: underline;
+}

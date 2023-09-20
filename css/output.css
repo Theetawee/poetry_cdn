@@ -2365,6 +2365,16 @@ input:checked + .toggle-bg{
   text-decoration: none !important;
 }
 
+.paras a{
+  font-family: 'Vollkorn', serif;
+  font-style: italic;
+  color: #14b8a6;
+}
+
+.paras a:hover{
+  text-decoration: underline;
+}
+
 .hover\:border-gray-300:hover{
   --tw-border-opacity: 1;
   border-color: rgb(209 213 219 / var(--tw-border-opacity));
@@ -3114,4 +3124,3 @@ input:checked + .toggle-bg{
     line-height: 1;
   }
 }
-

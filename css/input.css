@@ -6,6 +6,8 @@
 
 .paras p{
     @apply leading-relaxed;
+    margin-bottom: 30px !important;
+    word-break: break-all;
 }
 .htmx-indicator{
     display:none;

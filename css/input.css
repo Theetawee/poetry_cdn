@@ -4,14 +4,14 @@
 
 @tailwind base;@tailwind components;@tailwind utilities;
 
-.paras p{
+.paras p {
     @apply leading-relaxed;
     margin-bottom: 30px !important;
-    word-break: break-all;
+    overflow-wrap: break-word; /* Prevents words from breaking letter by letter */
     font-size: 1rem;
 }
 .htmx-indicator{
-    display:none;
+    display:none ;
 }
 .htmx-request .my-indicator{
     display:inline;

@@ -1533,6 +1533,14 @@ input:checked + .toggle-bg{
   cursor: pointer;
 }
 
+.cursor-help{
+  cursor: help;
+}
+
+.cursor-zoom-in{
+  cursor: zoom-in;
+}
+
 .resize{
   resize: both;
 }
@@ -1703,6 +1711,10 @@ input:checked + .toggle-bg{
 
 .rounded-md{
   border-radius: 0.375rem;
+}
+
+.rounded-xl{
+  border-radius: 0.75rem;
 }
 
 .rounded-l-lg{
